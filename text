@@ -4,3 +4,5 @@ main()
 {
   cout<<Hello,World!;
 }
+
+променено с tortuisegit.
